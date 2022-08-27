@@ -176,7 +176,7 @@ if (temp > 39 || time >= 4) {
 // -- it is, so we console.log 'enter'.
 
 
-//FIX- The instructions say that age is a variable and minAge is a constant.
+//FIX- The instructions say that age is a variable and minAge is a constant
 // The instructions say that if the age is greater than or equal to the minAge, then we console log 'enter'.
 // Should be 
 // if (age >= minAge) {
